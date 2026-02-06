@@ -7,7 +7,7 @@ Answer the following questions from the Chapter 1 reading from your textbook. Be
 
 1. What are the two main functions of an operating system? sdsadfsdfsdfsdf
 
-2. What is the difference between timesharing and multiprogramming systems?
+2. What is the difference between timesharing and multiprogramming systems? jhjhljk
 
 3. The family-of-computers idea was introduced in the 1960s with the IBM System/360 mainframes. Is this idea now dead as a doornail or does it live on?
 
