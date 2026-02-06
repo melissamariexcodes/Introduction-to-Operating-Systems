@@ -36,6 +36,4 @@ Hyperthreading allows a CPU to switch between threads quickly, but it does not p
 A trap instruction is a controlled mechanism that allows a user program to transfer execution to the operating system. When a trap occurs, the CPU switches from user mode to kernel mode so the OS can safely perform a requested service, such as a system call. This provides a secure way for applications to request privileged operations without direct hardware access.
 
 10. Modern operating systems decouple a process address space from the machine’s physical memory. List two advantages of this design.
-One advantage is improved memory management, as the operating system can give each process the illusion of having its own large, continuous memory space regardless of physical memory limitations.
-
-Another advantage is better protection and flexibility, since processes are isolated from one another and memory can be swapped between RAM and disk as needed. This abstraction improves both system stability and efficient use of memory resources.
+One advantage is improved memory management, as the operating system can give each process the illusion of having its own large, continuous memory space regardless of physical memory limitations. Another advantage is better protection and flexibility, since processes are isolated from one another and memory can be swapped between RAM and disk as needed. This abstraction improves both system stability and efficient use of memory resources.
